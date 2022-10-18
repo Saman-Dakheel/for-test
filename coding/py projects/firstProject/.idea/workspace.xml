@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e27c7a68-5e88-41f3-8b7e-6fee9d615c2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../4_knife/android_knife/app/src/main/java/com/samGame/knife/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/androidTest/java/com/hurricaneDevSam/videoDownloaderSam/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/VDApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/activity/GuideActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/activity/HistoryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/activity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/activity/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/activity/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/adapter/GuideAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/adapter/SavedAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/browser/AdBlocker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/browser/BrowserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/browser/BrowserWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/browser/TouchableWebView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/browser/VideoContentSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/browser/VideoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/DownloadManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/DownloadPermissionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/DownloadVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/OnDownloadWithNewLinkListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/Tracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/frag/Downloads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/frag/DownloadsC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/frag/DownloadsCompleted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/frag/DownloadsInProgress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/list/CompletedVideos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/list/DownloadQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/download/list/InactiveDownloads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/history/HistorySQLite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/history/VisitedPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/model/GuideModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/model/VDFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/model/WebConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/utils/CustomButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/utils/CustomText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/utils/PermissionRequestCodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/utils/PermissionsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/utils/RenameDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/view/CustomMediaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/view/CustomVideoView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/main/java/com/hurricaneDevSam/videoDownloaderSam/view/OrientationDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../call/Files/VideoDownloadAppV1/app/src/test/java/com/hurricaneDevSam/videoDownloaderSam/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonCourse/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonCourse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonCourse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonCourse/.idea/pythonCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonCourse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonCourse/piano.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonCourse/song.mp3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dqku8vy2AWDEUWp8adNtqCIHIj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="firstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e27c7a68-5e88-41f3-8b7e-6fee9d615c2e" name="Changes" comment="" />
+      <created>1661434222421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661434222421</updated>
+    </task>
+    <servers />
+  </component>
+</project>
